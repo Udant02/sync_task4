@@ -1,3 +1,3 @@
-# synk-interns-task-4
+# sync_task4
 
 E-learning Site
